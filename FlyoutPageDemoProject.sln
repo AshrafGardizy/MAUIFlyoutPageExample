@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyoutPageDemoProject", "FlyoutPageDemoProject\FlyoutPageDemoProject.csproj", "{675BC12D-9C4B-451E-A31C-FA01E0D981AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675BC12D-9C4B-451E-A31C-FA01E0D981AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675BC12D-9C4B-451E-A31C-FA01E0D981AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675BC12D-9C4B-451E-A31C-FA01E0D981AD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{675BC12D-9C4B-451E-A31C-FA01E0D981AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675BC12D-9C4B-451E-A31C-FA01E0D981AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675BC12D-9C4B-451E-A31C-FA01E0D981AD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6817B874-DAA0-4497-981B-775EA3633D3C}
+	EndGlobalSection
+EndGlobal
